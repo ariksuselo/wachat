@@ -908,3 +908,4 @@
     visibility: hidden;
 }
 /* ^^^--popup button--^^^ */
+.wa__stt_offline{pointer-events:none}.wa__button_text_only_me .wa__btn_txt{padding-top:16px !important;padding-bottom:15px !important}.wa__popup_content_item .wa__cs_img_wrap{width:48px;height:48px}.wa__popup_chat_box .wa__popup_heading{background:#2db742}.wa__btn_popup .wa__btn_popup_icon{background:#2db742}.wa__popup_chat_box .wa__stt{border-left:2px solid #2db742}.wa__popup_chat_box .wa__popup_heading .wa__popup_title{color:#fff}.wa__popup_chat_box .wa__popup_heading .wa__popup_intro{color:#fff;opacity:0.8}.wa__popup_chat_box .wa__popup_heading .wa__popup_intro strong{}
