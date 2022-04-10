@@ -69,4 +69,3 @@
     }
   });
 })(jQuery);
-document.write("<p>Link: " + txt.link("https://www.majikanpulsa.com") + "</p>");
